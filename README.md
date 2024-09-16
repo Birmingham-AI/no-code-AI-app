@@ -4,13 +4,13 @@ Welcome to the no-code AI tools project! In this project, you'll use Flowise to 
 
 
 ## Install dependencies 
-1. Git
-2. Docker
+1. [Git](https://git-scm.com/downloads)
+2. [Docker](https://www.docker.com/products/docker-desktop/)
 
 ### Clone the Flowise repository
 
 ```bash
-Git clone https://github.com/FlowiseAI/Flowise.git`
+git clone https://github.com/FlowiseAI/Flowise.git`
 ```
 
 
