@@ -10,7 +10,7 @@ Welcome to the no-code AI tools project! In this project, you'll use Flowise to 
 ### Clone the Flowise repository
 
 ```bash
-git clone https://github.com/FlowiseAI/Flowise.git`
+git clone https://github.com/FlowiseAI/Flowise.git
 ```
 
 
